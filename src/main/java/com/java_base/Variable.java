@@ -1,6 +1,6 @@
-package com.java_base.variable;
+package com.java_base;
 
-public class V1 {
+public class Variable {
 
     public static void main(String[] args) {
 
