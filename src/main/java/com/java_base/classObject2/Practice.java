@@ -1,4 +1,4 @@
-package com.java_base.ClassObject2;
+package com.java_base.classObject2;
 
 class Calculator {
 

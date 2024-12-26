@@ -1,4 +1,4 @@
-package com.java_base.ClassObject;
+package com.java_base.classObject;
 
 class Car {
     String name;
